@@ -1,4 +1,3 @@
-```python
 # Graph representation using a dictionary where keys are nodes and values are lists of adjacent nodes
 graph = {
      5 : [ 3 ,  7 ],
@@ -56,7 +55,6 @@ if path:
 else:
     # Print a message if no path is found
     print("No path found")
-```
 
 ### Explanation of Comments:
 - **Graph Representation**: Describes how the graph is represented using a dictionary.
