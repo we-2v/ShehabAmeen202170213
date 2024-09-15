@@ -66,4 +66,3 @@ No path found
 - The script assumes that all nodes are represented as strings.
 
 Feel free to modify the graph and experiment with different start and end nodes!
-```
